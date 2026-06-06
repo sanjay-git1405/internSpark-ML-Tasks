@@ -22,7 +22,7 @@ To completely reproduce these results, ensure you have the following packages in
 Follow these exact commands to reproduce the results locally:
 
 1. Clone this repository:
-   git clone https://github.com/[your-username]/internSpark-ML-Tasks.git
+   git clone https://github.com/sanjay-git1405/internSpark-ML-Tasks.git
 
 2. Navigate into the project directory:
    cd internSpark-ML-Tasks
